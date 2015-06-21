@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic&subset=latin,cyrillic);
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, pre,
+a, address, big, cite, code, img,
+ol, ul, li, form, label, tbody,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	font-family: 'PT Sans', sans-serif;
+	vertical-align: baseline;
+	text-decoration: none;
+	color: #000;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: flex;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
