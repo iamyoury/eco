@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="abstract"/>
+    <category value="agriculture"/>
+    <category value="art"/>
+    <category value="assortment"/>
+    <category value="autumn"/>
+    <category value="background"/>
+    <category value="basket"/>
+    <category value="collection"/>
+    <category value="color"/>
+    <category value="cook"/>
+    <category value="cooking"/>
+    <category value="corn"/>
+    <category value="cucumber"/>
+    <category value="dark"/>
+    <category value="design"/>
+    <category value="diet"/>
+    <category value="dieting"/>
+    <category value="eating"/>
+    <category value="eggplant"/>
+    <category value="farm"/>
+    <category value="food"/>
+    <category value="fresh"/>
+    <category value="freshness"/>
+    <category value="green"/>
+    <category value="group"/>
+    <category value="harvest"/>
+    <category value="health"/>
+    <category value="healthy"/>
+    <category value="herb"/>
+    <category value="kitchen"/>
+    <category value="leaf"/>
+    <category value="market"/>
+    <category value="natural"/>
+    <category value="nature"/>
+    <category value="onion"/>
+    <category value="organic"/>
+    <category value="pepper"/>
+    <category value="red"/>
+    <category value="rural"/>
+    <category value="salad"/>
+    <category value="season"/>
+    <category value="shopping"/>
+    <category value="summer"/>
+    <category value="table"/>
+    <category value="tomato"/>
+    <category value="vegetable"/>
+    <category value="white"/>
+    <category value="wood"/>
+    <category value="wooden"/>
+    <category value="yellow"/>
+  </categories>
+</comment>

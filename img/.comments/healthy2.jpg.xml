@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>healthy food</caption>
+  <note>healthy foods are on the table in the kitchen</note>
+  <place/>
+  <categories>
+    <category value="vegetables"/>
+    <category value="kitchen"/>
+    <category value="food"/>
+    <category value="cooking"/>
+    <category value="cook"/>
+    <category value="preparing"/>
+    <category value="nobody"/>
+    <category value="healthy"/>
+    <category value="tomatoes"/>
+    <category value="peppers"/>
+    <category value="eating"/>
+    <category value="ingredients"/>
+    <category value="domestic"/>
+    <category value="green"/>
+    <category value="meal"/>
+    <category value="life"/>
+    <category value="color"/>
+    <category value="counter"/>
+    <category value="objects"/>
+    <category value="preparation"/>
+    <category value="cuisine"/>
+    <category value="indoors"/>
+    <category value="meat"/>
+    <category value="group"/>
+    <category value="onions"/>
+    <category value="raw"/>
+    <category value="freshness"/>
+    <category value="yellow"/>
+    <category value="gourmet"/>
+    <category value="white"/>
+    <category value="organic"/>
+    <category value="fruits"/>
+    <category value="interior"/>
+    <category value="close-up"/>
+    <category value="dish"/>
+    <category value="fresh"/>
+    <category value="vegetarian"/>
+    <category value="home"/>
+    <category value="lunch"/>
+    <category value="lifestyle"/>
+    <category value="house"/>
+    <category value="bowl"/>
+    <category value="foods"/>
+    <category value="breakfast"/>
+    <category value="dinner"/>
+    <category value="health"/>
+    <category value="plate"/>
+    <category value="agriculture"/>
+    <category value="household"/>
+  </categories>
+</comment>
